@@ -2,10 +2,10 @@ body {
   background: #CCCCCC
 }
 
-p {
+P {
   text-align: center;
 }
 
-strong {
+em strong {
   color: red;
 }
